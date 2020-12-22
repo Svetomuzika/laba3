@@ -1,1 +1,1 @@
-{  "name": "urfu/Sozonov",  "type": "project",  "description": "LabWork",  "license": "MIT",  "autoload": {    "psr-4": {      "App\\": "src/"    }  }}
+{  "name": "urfu/sozonov",  "type": "project",  "description": "LabWork",  "license": "MIT",  "autoload": {    "psr-4": {      "App\\": "src/"    }  }}
