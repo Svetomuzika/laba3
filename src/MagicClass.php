@@ -6,7 +6,7 @@ class MagicClass {
         echo "__construct()";
     }
 
-    public function __destruct(){
+    public function __destruct() {
         echo "__destruct()";
     }
 
